@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string-array name="habits">
+        <item>Exercise</item>
+        <item>Read</item>
+        <item>Meditate</item>
+        <item>Eat Healthy</item>
+        <item>Drink Water</item>
+        <item>Sleep Early</item>
+    </string-array>
+</resources>
