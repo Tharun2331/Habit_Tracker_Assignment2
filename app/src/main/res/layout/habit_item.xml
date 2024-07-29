@@ -9,6 +9,7 @@
         android:id="@+id/text_view_habit_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Habit Name"
+        android:text="@string/habitname"
+        android:textColor="@color/orange"
         android:textSize="18sp" />
 </LinearLayout>
